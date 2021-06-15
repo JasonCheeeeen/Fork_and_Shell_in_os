@@ -20,3 +20,13 @@ Ex:
    Grandpa's name is 526854</br>
    Dad's name is 526855.</br>
    Brother's name is 526857.</br>
+   
+## Shell(C)
+In this program, it can run some standard pipe or CLI.</br>
+Ex:</br>
+ls</br>
+ls -a</br>
+ls -l</br>
+ls -al</br>
+ls -al > output1 > output2 > output3</br>
+ls -al < output1 < output2 < output3</br>
