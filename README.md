@@ -23,10 +23,10 @@ Ex:
    
 ## Shell(C)
 In this program, it can run some standard pipe or CLI.</br>
-Ex:</br>
-ls</br>
-ls -a</br>
-ls -l</br>
-ls -al</br>
-ls -al > output1 > output2 > output3</br>
-ls -al < output1 < output2 < output3</br>
+Ex:
+1. ls</br>
+2. ls -a</br>
+3. ls -l</br>
+4. ls -al</br>
+5. ls -al > output1 > output2 > output3</br>
+6. ls -al < output1 < output2 < output3</br>
