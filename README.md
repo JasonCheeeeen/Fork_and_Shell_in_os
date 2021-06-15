@@ -1,7 +1,7 @@
 # Fork and Shell in OS
 In this project, you can see how to implement fork and shell simply.</br>
 
-## Fork
+## Fork(C++)
 There have two different examples.</br>
 1. use wait(&) to control process parent and process child.
 2. without wait(&).</br>
